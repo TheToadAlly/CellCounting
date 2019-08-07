@@ -12,12 +12,12 @@
 		<relativePath />
 	</parent>
 
-	<groupId>imagej-tutorials</groupId>
+	<groupId>IdorsiaTest</groupId>
 	<artifactId>Cell-Counting</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
 	<name>Cell Counting</name>
-	<description>This example shows how to load and display a dataset using the ImageJ API.</description>
+	<description>Algorithm to count cells</description>
 	<url>https://github.com/[MY-ORG]/[MY-REPO]</url>
 	<inceptionYear>2012</inceptionYear>
 	<organization>
